@@ -1,2 +1,4 @@
 # hello-world
-Primer repositoria
+Primer repositorio
+
+Correccion a la ortografia.
